@@ -22,7 +22,7 @@
 
 - :zap: In my free time, I solve problems on GeeksforGeeks, HackerRank and read Tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ololade-akinloye-1a703a230/)
+- :mailbox:Connect and reach me on: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ololade-akinloye-1a703a230/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/Loladehh_/)
 ---
 
