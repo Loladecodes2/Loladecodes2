@@ -4,14 +4,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="110"/>
 </div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/ololade-akinloye-1a703a230/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/Loladehh_">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
 <div id="header" align="center">
 <img src="https://komarev.com/ghpvc/?username=Loladecodes2&style=flat-square&color=blue" alt=""/>
 </div>
@@ -30,5 +22,6 @@
 
 - :zap: In my free time, I solve problems on GeeksforGeeks, HackerRank and read Tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ololade-akinloye-1a703a230/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ololade-akinloye-1a703a230/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/Loladehh_/)
 - ---
