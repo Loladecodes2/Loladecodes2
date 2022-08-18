@@ -1,8 +1,8 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/QZbD2KFxwtPxMqaRCh/giphy.gif" width="350" height="220"/>
+  <img src="https://media.giphy.com/media/QZbD2KFxwtPxMqaRCh/giphy.gif" width="750" height="400"/>
  </div>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="110"/>
+  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="210"/>
 </div>
 <div id="header" align="center">
 <img src="https://komarev.com/ghpvc/?username=Loladecodes2&style=flat-square&color=blue" alt=""/>
