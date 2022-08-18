@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/QZbD2KFxwtPxMqaRCh/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/QZbD2KFxwtPxMqaRCh/giphy.gif" width="350" height="220"/>
  </div>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="110"/>
@@ -40,6 +40,5 @@
   ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Loladecodes2&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loladecodes2&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Loladecodes2&show_icons=true&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loladecodes2&lang_count=8&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
