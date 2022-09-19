@@ -10,7 +10,7 @@
 <div id="header" align="center">
 <h1>
   Hi there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Ololade Akinloye
 </h1>
 </div>
 ---
@@ -22,8 +22,8 @@
 
 - :zap: In my free time, I solve problems on GeeksforGeeks, HackerRank and read Tech articles.
 
-- :mailbox:Connect and reach me on: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ololade-akinloye-1a703a230/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/Loladehh_/)
+- :mailbox:Connect and reach me on: [![Linkedin Badge](https://img.shields.io/badge/-ololadeakinloye-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ololade-akinloye/)
+[![Twitter Badge](https://img.shields.io/badge/Loladecodes-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/Loladecodes_/)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
