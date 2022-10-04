@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/QZbD2KFxwtPxMqaRCh/giphy.gif" width="550" height="250"/>
  </div>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="150"/>
 </div>
 <div id="header" align="center">
 <img src="https://komarev.com/ghpvc/?username=Loladecodes2&style=flat-square&color=blue" alt=""/>
