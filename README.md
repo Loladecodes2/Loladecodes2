@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/QZbD2KFxwtPxMqaRCh/giphy.gif" width="550" height="250"/>
+  <img src="https://media.giphy.com/media/QZbD2KFxwtPxMqaRCh/giphy.gif" width="600" height="300"/>
  </div>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="150"/>
@@ -15,17 +15,19 @@
 </div>
 ---
 
-### :woman_technologist: About Me : I am a Full Stack Developer Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
-- :telescope: I’m currently a student at Alx-Holberton School of Computer Science.
+### :woman_technologist: About Me : I am a **Full Stack Developer Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.**
+- :telescope: I’m currently a student at **Alx-Holberton School of Computer Science.**
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring **Technical Content Writing.**
 
-- :zap: In my free time, I solve problems on GeeksforGeeks, HackerRank and read Tech articles.
+- :zap: In my free time, **I solve problems on GeeksforGeeks, HackerRank and read Tech articles.**
 
-- :mailbox:Connect and reach me on: [![Linkedin Badge](https://img.shields.io/badge/-ololadeakinloye-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ololade-akinloye/)
-[![Twitter Badge](https://img.shields.io/badge/Loladecodes-blue?style=flat-square&logo=twitter&logoColor=white)](https://www.twitter.com/Loladecodes/)
+- :mailbox: Connect and reach me on: **ololade220@gmail.com**
+<div>
+  [![Linkedin Badge](https://img.shields.io/badge/-ololadeakinloye-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ololade-akinloye/)
+  [![Twitter Badge](https://img.shields.io/badge/Loladecodes-blue?style=flat-square&logo=twitter&logoColor=white)](https://www.twitter.com/Loladecodes/)
+</div>
 ---
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C width="40" height="40"/>&nbsp;
