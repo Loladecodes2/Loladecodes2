@@ -44,3 +44,6 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Loladecodes2&show_icons=true&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loladecodes2&lang_count=8&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Loladecodes2&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="Ololade Akinloye github stats" /></p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=Loladecodes2&show_icons=true&theme=dark&layout=compact" />
+</a>
