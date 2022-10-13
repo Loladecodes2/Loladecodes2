@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="150"/>
 </div>
 <div id="header" align="center">
-<img src="https://komarev.com/ghpvc/?username=Loladecodes2&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Computewell&style=flat-square&color=blue" alt=""/>
 </div>
 <div id="header" align="center">
 <h1>
@@ -41,8 +41,8 @@
   ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Loladecodes2&show_icons=true&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loladecodes2&lang_count=8&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Computewell&show_icons=true&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Computewell2&lang_count=8&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="170px" align="center" src="https://github-readme-stats.vercel.app/api?username=Loladecodes2&show_icons=true&theme=great-gatsby&layout=compact" />
+  <img height="170px" align="center" src="https://github-readme-stats.vercel.app/api?username=Computewell&show_icons=true&theme=great-gatsby&layout=compact" />
 </a>
