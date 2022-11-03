@@ -43,6 +43,6 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Computewell&show_icons=true&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Computewell&lang_count=8&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<p><a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="170px" align="center" src="https://github-readme-stats.vercel.app/api?username=Computewell&show_icons=true&theme=great-gatsby&layout=compact" />
-</a>
+</a></p>
