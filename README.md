@@ -12,6 +12,7 @@
   Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Ololade Akinloye
 </h1>
+  <a href="https://www.github.com/Computewell" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Computewell?logo=github&style=for-the-badge&color=ec4899&labelColor=1c1917" /></a>
 </div>
 ---
 
@@ -24,7 +25,7 @@
 
 - :mailbox: Connect and reach me on: **ololade220@gmail.com**
 
-[![Linkedin Badge](https://img.shields.io/badge/-ololadeakinloye-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ololade-akinloye/) [![Twitter Badge](https://img.shields.io/badge/Loladecodes-blue?style=flat-square&logo=twitter&logoColor=white)](https://www.twitter.com/Loladecodes/)
+[![Linkedin Badge](https://img.shields.io/badge/-ololadeakinloye-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ololade-akinloye/) [![Twitter Badge](https://img.shields.io/badge/Computewell-blue?style=flat-square&logo=twitter&logoColor=white)](https://www.twitter.com/Computewell/)
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
@@ -42,7 +43,7 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Computewell&show_icons=true&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Computewell&lang_count=8&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<p><a href="https://github.com/anuraghazra/github-readme-stats">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Computewell&lang_count=8&layout=compact&theme=vision-friendly-dark)](https://github.com/Computewell/github-readme-stats)
+<p><a href="https://github.com/Computewell/github-readme-stats">
   <img height="170px" align="center" src="https://github-readme-stats.vercel.app/api?username=Computewell&show_icons=true&theme=great-gatsby&layout=compact" />
 </a></p>
