@@ -19,13 +19,15 @@
 ### :woman_technologist: About Me : I am a **Full Stack Developer Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.**
 - :telescope: I’m currently a student at **Alx-Holberton School of Computer Science.**
 
+- 📫 I'm currently working on **flutter as a side Booster**
+
 - :seedling: Exploring **Technical Content Writing.**
 
 - :zap: In my free time, **I solve problems on GeeksforGeeks, HackerRank and read Tech articles.**
 
 - :mailbox: Connect and reach me on: **ololade220@gmail.com**
 
-[![Linkedin Badge](https://img.shields.io/badge/-ololadeakinloye-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ololade-akinloye/) [![Twitter Badge](https://img.shields.io/badge/Computewell-blue?style=flat-square&logo=twitter&logoColor=white)](https://www.twitter.com/Computewell/)
+[![Linkedin Badge](https://img.shields.io/badge/-ololadeakinloye-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ololade-akinloye/) [![Twitter Badge](https://img.shields.io/badge/ololadehh-blue?style=flat-square&logo=twitter&logoColor=white)](https://www.twitter.com/Computewell/)
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
@@ -47,4 +49,5 @@
   <img height="170px"  src="https://github-readme-stats.vercel.app/api?username=Computewell&show_icons=true&theme=great-gatsby&layout=compact"/>
 </a>
 <p>
-<a href="https://github.com/Computewell"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Computewell&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a></p>
+<a href="https://github.com/Computewell"align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Computewell&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</p>
