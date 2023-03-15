@@ -19,7 +19,7 @@
 ### :woman_technologist: About Me : I am a **Full Stack Developer Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.**
 - :telescope: I’m currently a student at **Alx-Holberton School of Computer Science.**
 
-- 📫 I'm currently working on **flutter as a side Booster**
+- 📫 Working on **flutter as a side Booster**
 
 - :seedling: Exploring **Technical Content Writing.**
 
