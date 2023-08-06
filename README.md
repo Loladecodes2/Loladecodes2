@@ -27,7 +27,7 @@
 
 - :mailbox: Connect and reach me on: **ololade220@gmail.com**
 
-[![Linkedin Badge](https://img.shields.io/badge/-ololadeakinloye-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ololade-akinloye/) [![Twitter Badge](https://img.shields.io/badge/ololadehh-blue?style=flat-square&logo=twitter&logoColor=white)](https://www.twitter.com/techodette/)
+[![Linkedin Badge](https://img.shields.io/badge/-ololadeakinloye-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ololade-akinloye/) [![Twitter Badge](https://img.shields.io/badge/techodette-blue?style=flat-square&logo=twitter&logoColor=white)](https://www.twitter.com/techodette/)
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
