@@ -5,14 +5,14 @@
   <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="150"/>
 </div>
 <div id="header" align="center">
-<img src="https://komarev.com/ghpvc/?username=Computewell&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=herlolade&style=flat-square&color=blue" alt=""/>
 </div>
 <div id="header" align="center">
 <h1>
   Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Ololade Akinloye
 </h1>
-  <a href="https://www.github.com/Computewell" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Computewell?logo=github&style=for-the-badge&color=ec4899&labelColor=1c1917" /></a>
+  <a href="https://www.github.com/herlolade" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/herlolade?logo=github&style=for-the-badge&color=ec4899&labelColor=1c1917" /></a>
 </div>
 ---
 
@@ -27,7 +27,7 @@
 
 - :mailbox: Connect and reach me on: **ololade220@gmail.com**
 
-[![Linkedin Badge](https://img.shields.io/badge/-ololadeakinloye-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ololade-akinloye/) [![Twitter Badge](https://img.shields.io/badge/techodette-blue?style=flat-square&logo=twitter&logoColor=white)](https://www.twitter.com/techodette/)
+[![Linkedin Badge](https://img.shields.io/badge/-ololadeakinloye-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ololade-akinloye/) [![Twitter Badge](https://img.shields.io/badge/herlolade-blue?style=flat-square&logo=twitter&logoColor=white)](https://www.twitter.com/herlolade/)
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
@@ -44,10 +44,10 @@
   ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Computewell&show_icons=true&theme=dark&background=000000)](https://git.io/streak-stats)
-<a href="https://github.com/Computewell/github-readme-stats">
-  <img height="170px"  src="https://github-readme-stats.vercel.app/api?username=Computewell&show_icons=true&theme=great-gatsby&layout=compact"/>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=herlolade&show_icons=true&theme=dark&background=000000)](https://git.io/streak-stats)
+<a href="https://github.com/herlolade/github-readme-stats">
+  <img height="170px"  src="https://github-readme-stats.vercel.app/api?username=herlolade&show_icons=true&theme=great-gatsby&layout=compact"/>
 </a>
 <p>
-<a href="https://github.com/Computewell"align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Computewell&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/herlolade"align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herlolade&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </p>
