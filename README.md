@@ -13,6 +13,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Ololade Akinloye
 </h1>
   <a href="https://www.github.com/dchefcoder" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/dchefcoder?logo=github&style=for-the-badge&color=ec4899&labelColor=1c1917" /></a>
+<p> <img src="https://komarev.com/ghpvc/?username=dchefcoder&label=Profile%20views&color=0e75b6&style=flat" alt="dchefcoder" /> </p>
+
 </div>
 ---
 
