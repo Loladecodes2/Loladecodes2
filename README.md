@@ -22,9 +22,9 @@
 
 - :seedling: Exploring **Technical Content Writing.**
 
-- :zap: In my free time, **I solve problems on GeeksforGeeks, HackerRank and read Tech articles.**
+- :zap: In my free time, **I solve problems on GeeksforGeeks, HackerRank, and read Tech articles.**
 
-- :mailbox: Connect and reach me on: **ololade220@gmail.com**
+- :mailbox: Connect and reach me at: **ololade220@gmail.com**
 
 [![Linkedin Badge](https://img.shields.io/badge/-ololadeakinloye-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ololade-akinloye/) [![Twitter Badge](https://img.shields.io/badge/dchefcoder-blue?style=flat-square&logo=twitter&logoColor=white)](https://www.twitter.com/dchefcoder/)
 
